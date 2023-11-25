@@ -47,7 +47,7 @@
     agama_siswa = '$_POST[agama_siswa]',
     asal_sekolah = '$_POST[asal_sekolah]' WHERE id_siswa='$id'");
     
-    echo "Data siswa baru berhasil disimpan ";
+    echo "Data siswa telah diubah";
   }
 ?>
 <td>
